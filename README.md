@@ -1,5 +1,7 @@
 # 🏗️ CodeGraphContext (CGC)
 
+[![Support my work on this fork](https://img.shields.io/badge/Support%20my%20work%20on%20this%20fork-GitHub%20Sponsors-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/slobodanmargetic988)
+
 **Turn code repositories into a queryable graph for AI agents.**
 
 🌐 **Languages:**
